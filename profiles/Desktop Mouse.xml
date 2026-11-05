@@ -56,7 +56,7 @@
   <LSMaxOutputForce>False</LSMaxOutputForce>
   <RSMaxOutputForce>False</RSMaxOutputForce>
   <LSDeadZoneType>Radial</LSDeadZoneType>
-  <RSDeadZoneType>Radial</RSDeadZoneType>
+  <RSDeadZoneType>Axial</RSDeadZoneType>
   <LSAxialDeadOptions>
     <DeadZoneX>0</DeadZoneX>
     <DeadZoneY>0</DeadZoneY>
@@ -68,14 +68,14 @@
     <MaxOutputY>0</MaxOutputY>
   </LSAxialDeadOptions>
   <RSAxialDeadOptions>
-    <DeadZoneX>0</DeadZoneX>
-    <DeadZoneY>0</DeadZoneY>
-    <MaxZoneX>0</MaxZoneX>
-    <MaxZoneY>0</MaxZoneY>
+    <DeadZoneX>52</DeadZoneX>
+    <DeadZoneY>18</DeadZoneY>
+    <MaxZoneX>100</MaxZoneX>
+    <MaxZoneY>100</MaxZoneY>
     <AntiDeadZoneX>0</AntiDeadZoneX>
     <AntiDeadZoneY>0</AntiDeadZoneY>
-    <MaxOutputX>0</MaxOutputX>
-    <MaxOutputY>0</MaxOutputY>
+    <MaxOutputX>100</MaxOutputX>
+    <MaxOutputY>100</MaxOutputY>
   </RSAxialDeadOptions>
   <LSRotation>0</LSRotation>
   <RSRotation>0</RSRotation>
