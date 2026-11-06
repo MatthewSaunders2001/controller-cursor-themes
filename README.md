@@ -2,6 +2,8 @@
 
 Two experimental DS4Windows profiles and four mouse-inspired Windows cursor sets: Starlight, Cosmic, Pixel and Cyber.
 
+The small adjustments, failed experiments, physical tests, and remaining issues are recorded in [the build diary](BUILD_DIARY.md).
+
 ## Controller profiles
 
 Import a profile in DS4Windows. Desktop Mouse maps the left stick to the mouse and right stick to scrolling; L1 plus right stick is intended for Windows window snapping. Brave Controller is a separate browser-oriented layout. These are personal experimental mappings, not a guaranteed compatible setup for every controller or Windows version.
